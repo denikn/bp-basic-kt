@@ -21,6 +21,7 @@ KlikHelpApps/
 │   │   │   │   └── values/                    (Tempat simpan warna/teks bawaan)
 │   │   │   └── AndroidManifest.xml            (File Konfigurasi Sistem App)
 │   └── build.gradle.kts                       (Pengaturan Module/Library)
+```
 
 ## Langkah 1: Persiapan Project Baru
 1. Buka **Android Studio**.
