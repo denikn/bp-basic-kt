@@ -1,4 +1,4 @@
-# Tutorial Lengkap: Membuat Apps Kontak Darurat dari Nol (Scratch)
+# Tutorial Lengkap: Membuat Apps Kontak Darurat
 
 Tutorial ini akan memandu Anda membuat aplikasi Android sederhana untuk praktik UI, Logic, dan Data Lokal (SharedPreferences) tanpa download library tambahan.
 
